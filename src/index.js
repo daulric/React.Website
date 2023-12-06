@@ -9,6 +9,7 @@ import './css/navbar.css'
 // CSS for The Different Pages
 import './css/pages/daulric.css'
 import './css/pages/404.css'
+import './css/pages/admin.css'
 
 import App from './App';
 

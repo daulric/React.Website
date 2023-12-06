@@ -5,6 +5,7 @@ function navbar(props) {
     const list = [
         {name: "Home", href: "/"}, 
         {name: "About", href: "/daulric"},
+        {name: "Admin Sandbox", href: "/admin"}
     ]
 
     return (
