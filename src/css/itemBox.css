@@ -1,0 +1,27 @@
+.daulric {
+    margin: auto;
+    width: 60%;
+    border:3px solid #1a1919;
+    padding: 20px;
+}
+
+.topg {
+    margin: auto;
+    width: 60%;
+    border:3px solid #330101;
+    padding: 20px;
+}
+
+.matrix {
+    margin: auto;
+    width: 60%;
+    border:3px solid rgb(0, 99, 15);
+    padding: 20px;
+}
+
+.hello {
+    margin: auto;
+    width: 60%;
+    border:3px solid rgb(253, 253, 253);
+    padding: 20px;
+}

@@ -1,0 +1,22 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgb(37, 43, 116);
+    position: fixed;
+    top:0px;
+    width: 100%;
+    left: 0px;
+}
+
+.navbar a {
+    float: left;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.navbar a:hover {
+    background-color: rgb(22, 96, 150);
+}

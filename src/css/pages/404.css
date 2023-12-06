@@ -1,0 +1,34 @@
+.err-div {
+    margin: auto;
+    width: 100%;
+
+    text-align: center;
+}
+
+.err-tag {
+    position: static;
+    text-align: center;
+    padding: 40px;
+}
+
+.err-para {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: static;
+    line-height: 40px;
+    text-align: center;
+}
+
+.return-button {
+    border: 10px;
+    border-radius: 5%;
+    background-color: rgb(60, 164, 249); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bolder;
+}
