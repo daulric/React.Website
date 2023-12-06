@@ -10,8 +10,8 @@ function RouterMode() {
         <Router>
             <Routes>
                 <Route path='/' element={<Home />} />
-                <Route path='/daulric' element={<UlricPage/>}> </Route>
-                <Route path='*' element={<ErrorPage />}></Route>
+                <Route path='/daulric' element={<UlricPage/>} />
+                <Route path='*' element={<ErrorPage />} />
 
             </Routes>
         </Router>
